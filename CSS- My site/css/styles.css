@@ -8,8 +8,24 @@ body{
     margin: 0;
 }
 
-div{
+
+.top-container{
     background-color: #820000;
     font-style: oblique;
-    color: antiquewhite;
+    color: antiquewhite; 
+    
+
+    
+}
+
+.mid-container{
+    background-color: tomato;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-container{
+    background-color: greenyellow;
+    width: 200px;
+    height: 200px;
 }
