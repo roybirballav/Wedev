@@ -2,30 +2,45 @@
 h1{
     margin-top: 0;
     margin-bottom: 0;
-    color: aliceblue;
+    font-family: 'Sacramento', cursive;
+
 }
 body{
     margin: 0;
+    text-align: center;
+    font-family:'Merriweather', serif;
+
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+
+
 }
 
 
 .top-container{
-    background-color: #820000;
-    font-style: oblique;
-    color: antiquewhite; 
-    
+    background-color: #E3FDFD;
+    position: relative;
+    padding-top: 100px;
 
-    
 }
 
-.mid-container{
-    background-color: tomato;
-    width: 200px;
-    height: 200px;
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
 }
 
-.bottom-container{
-    background-color: greenyellow;
-    width: 200px;
-    height: 200px;
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
 }

@@ -16,3 +16,15 @@
     h3{
        color: #66BFBF;
     }
+
+    .red{
+        background-color: red;
+        color: #000;
+    }
+
+    .blue{
+        background-color: blue;
+    }
+    .yellow{
+        background-color:yellow;
+    }
