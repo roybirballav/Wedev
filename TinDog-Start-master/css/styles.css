@@ -98,7 +98,7 @@ p{
 /* testimonial section */
 
 #testimonials{
-    padding: 7% 15%; 
+    
     text-align: center;
     background-color: #ef8172;
     color: #fff;
@@ -109,6 +109,10 @@ p{
     width: 10%;
     border-radius: 100%;
     margin: 20px;
+}
+
+#carouseltestimonial{
+    padding: 7% 15%; 
 }
 
 /* press section */
@@ -122,4 +126,16 @@ p{
 .press-logo {
     width: 15%;
     margin: 20px 20px 50px;
+}
+
+
+/* Pricing section */
+
+#pricing{
+    text-align: center;
+    padding: 5% 5%; 
+}
+
+.pricing-card{
+   margin: 0px;
 }
